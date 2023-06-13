@@ -1,1 +1,2 @@
 # analyses-of-toyota-dataset
+We performed an Exploratory Data Analysis (EDA) on the Toyota Dataset to investigate the correlation between car age and price. The dataset was sourced from Kaggle, and we utilized pandas and numpy libraries to conduct the analysis.
